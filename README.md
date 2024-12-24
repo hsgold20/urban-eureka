@@ -1,6 +1,6 @@
-# urban-eureka - main repository
+# Urban-Eureka
 
-This is to house the main project files for this tasklist manager.
+An Agenda planner in C
 
 ## Building and Running
 
