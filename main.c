@@ -1,3 +1,6 @@
+// Written by: H.G, finished on
+// Filename: main.c
+// Computes a sleep schedule
 #include <stdio.h>
 
 void display_schedule(int wakeup, int hours_of_sleep) {
@@ -10,6 +13,7 @@ void display_schedule(int wakeup, int hours_of_sleep) {
 
 int main(void) {
 	int wakeup = 4;
+	
 	printf("Choose what time you want to wake up at:\n");
 	scanf("%d", &wakeup);
 	printf("This is your schedule today, choose a time and activity to include in it.\n\n");
